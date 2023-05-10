@@ -1,5 +1,5 @@
 # GHFollowers-iOS
-This is an iOS based app built with UIkit & Swift that uses the GitHub API to search for followers of any user of Github, you can also add a follower to the favourites screen.
+This is an iOS based app built with UIkit & Swift it uses the GitHub API to fetch user profiles of any follower of a GitHub user. It features a clean and user-friendly interface that allows users to search for and view follower profiles, including details such as name, bio, number of followers, following, and repositories. The app also includes a favorites tab for quick access to frequently viewed profiles, which can be added or removed with a simple swipe gesture. Overall, the app provides an easy way for users to explore GitHub profiles and stay up-to-date with the latest user data.
 
 <p align="center">
  <img src="https://github.com/saeem92/GHFollowers-iOS/assets/93969890/12765632-9ee3-4ed8-b3f3-732cc0121c54" width="27.3%">
