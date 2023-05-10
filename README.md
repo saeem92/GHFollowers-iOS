@@ -38,5 +38,5 @@ GHFollowers is an app that allows you to:
 
 <br/>
 <p align="center">
- <img src="https://github.com/saeem92/GHFollowers-iOS/assets/93969890/fca1347f-6a63-44c0-b288-2c629364728b" width="50%">
+ <img src="https://github.com/saeem92/GHFollowers-iOS/assets/93969890/fca1347f-6a63-44c0-b288-2c629364728b" width="35%">
 </p>
