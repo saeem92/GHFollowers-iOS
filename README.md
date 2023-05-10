@@ -35,3 +35,6 @@ GHFollowers is an app that allows you to:
 ### APIs
 * Firebase to store user information & manage authentication
 * Github API to get github followers data
+
+<br/>
+ <img src="https://github.com/saeem92/GHFollowers-iOS/assets/93969890/fca1347f-6a63-44c0-b288-2c629364728b" width="25%">
